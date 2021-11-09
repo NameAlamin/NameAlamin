@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://scontent.fdac14-1.fna.fbcdn.net/v/t1.6435-9/252810070_1547824708891237_3134094885284020111_n.jpg?_nc_cat=102&_nc_rgb565=1&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeExWWef3a-hH2WRNPwOloXSRTu241Da-iRFO7bjUNr6JHFYZ1u6i6DmIIdgTPpQ0go0Ja9ndiE_zbBQvj1NkIk1&_nc_ohc=5zRg-ADhruIAX_s81Tq&tn=b9Oou5CN4P-x3yz4&_nc_ht=scontent.fdac14-1.fna&oh=7fba13da80b152c2258809ebae1d986d&oe=61AF4917"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/AshfakYeafi/AshfakYeafi/raw/main/cover.gif"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Al-Amin</h1>
 <h3 align="center">I'm a Full Stack Developer from Bangladesh.</h3>

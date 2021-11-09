@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/AshfakYeafi/AshfakYeafi/raw/main/cover.gif"/></a>
+<a href="#"><img width="100%" height="315px" src="https://github.com/AshfakYeafi/AshfakYeafi/raw/main/cover.gif"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Al-Amin</h1>
 <h3 align="center">I'm a Full Stack Developer from Bangladesh.</h3>
